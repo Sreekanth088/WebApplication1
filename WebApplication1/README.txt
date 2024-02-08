@@ -1,6 +1,6 @@
 ﻿2024-01-31 21:09:00
 
-* Run completed with desired output webpage no error occured  
+* Run completed with desired output webpage no error occured.  
 
 Part 2
 
